@@ -1,1 +1,7 @@
 Will be adding instructions and git commands here.
+
+git status
+git add .
+git commit
+git push
+git pull
