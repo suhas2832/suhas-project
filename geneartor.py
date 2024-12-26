@@ -10,7 +10,7 @@ default_json = {
             "priming_inputs": [
                 {
                     "input_type": "system_instruction",
-                    "content": "Hey Siri set a reminder tomorrow at 8 AM to look into that green invoice"
+                    "content": "Hey Siri set a reminder tomorrow at 9 AM to look into that green invoice"
                 }
             ]
         },
