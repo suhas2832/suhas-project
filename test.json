@@ -2,5 +2,6 @@
     "name" : "suhas",
     "age" : 30,
     "address" : "Seattle",
-    "car": "Mazda"
+    "car": "Mazda",
+    "bike" :"hayabuza"
 }
